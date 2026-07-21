@@ -1,0 +1,9 @@
+# Jupyter Notebook Environment & Dependencies
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+notebook
+ipykernel
